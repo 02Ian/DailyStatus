@@ -1,0 +1,40 @@
+.form {
+	background-color: #efefef;
+	width: 400px;
+	height: 50px;
+	border-radius: 7px;
+	padding-left: 100px;
+}
+/* Style all input fields */
+input {
+	width: 20%;
+	align-self: center;
+	padding: 12px;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	box-sizing: border-box;
+	margin-top: 6px;
+	margin-bottom: 16px;
+}
+
+
+/* Style the submit button */
+input[type=submit] {
+	background-color: #4CAF50;
+	color: white;
+}
+
+/* Style the container for inputs */
+.container {
+	background-color: #d6d6d6;
+	width: 60%;
+	align-content: center;
+	height: 100%;
+	margin: auto;
+}
+.maincenter{
+	align-content: center;
+}
+.form{
+	alignment: center;
+}
